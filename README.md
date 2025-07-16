@@ -4,7 +4,7 @@ This project explores lung cancer trends across European regions using Python an
 The focus is on visualizing patterns across gender and time to help inform healthcare awareness and policy decisions.
 
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Numpy, Pandas, Matplotlib, Seaborn and more)
 - Power BI
 
 ## Key Steps
